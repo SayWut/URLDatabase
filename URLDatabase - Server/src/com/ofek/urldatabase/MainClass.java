@@ -11,7 +11,7 @@ public class MainClass
 		ServerSocket server;
 		try
 		{
-			server = new ServerSocket(3415);
+			server = new ServerSocket(YOUR_PORT);
 
 			while (true)
 			{

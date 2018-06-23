@@ -19,7 +19,7 @@ import org.json.JSONObject;
 public class Client extends Thread
 {
 	private static boolean checkingLogin = false;
-	private static String mainDataPath = "D:\\Programing Projects\\Eclipse Projects\\URLDatabase\\src\\UsersData";
+	private static String mainDataPath = "TYPE_YOUR_OWN_PATH";
 	private Socket client;
 	private ObjectInputStream is;
 	private ObjectOutputStream os;
