@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">URLDatabase</string>
+    <string name="title_activity_user_data">UserData</string>
+</resources>

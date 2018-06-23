@@ -1,0 +1,19 @@
+html, body
+{
+    height: 100%;
+}
+
+body
+{
+	background: linear-gradient(to bottom right, #4577c3, #265291, #153567);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-size: 4vw;
+	padding: 0 20% 0 20%;
+	color: white;
+}
+
+img, video
+{
+    max-width: 100%;
+}
